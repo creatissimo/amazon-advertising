@@ -1,0 +1,32 @@
+{
+    "name": "src/amazon-advertising",
+    "type": "library",
+    "description": "Amazon Advertising API Client Library",
+    "keywords": [
+        "amazon",
+        "advertising",
+        "client",
+        "library",
+        "php",
+        "sdk"
+    ],
+    "license": "Apache OSL-2",
+    "authors": [
+        {
+            "name": "Pascal Rossa",
+            "email": "rossa@creatissimo.net"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+      "classmap": [
+        "src/"
+      ]
+    },
+    "include-path": [
+      "src/"
+    ]
+}
