@@ -1,5 +1,5 @@
 {
-    "name": "src/amazon-advertising",
+    "name": "creatissimo/amazon-advertising",
     "type": "library",
     "description": "Amazon Advertising API Client Library",
     "keywords": [
